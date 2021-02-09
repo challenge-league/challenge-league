@@ -1,0 +1,21 @@
+[submodule "dataleague"]
+	path = dataleague
+	url = https://github.com/challenge-league/dataleague
+[submodule "go-micro"]
+	path = go-micro
+	url = https://github.com/challenge-league/go-micro
+[submodule "micro"]
+	path = micro
+	url = https://github.com/challenge-league/micro
+[submodule "nakama"]
+	path = nakama
+	url = https://github.com/challenge-league/nakama
+[submodule "nakama-go"]
+	path = nakama-go
+	url = https://github.com/challenge-league/nakama-go
+[submodule "nakama-plugin-challenge-league"]
+	path = nakama-plugin-challenge-league
+	url = https://github.com/challenge-league/nakama-plugin-challenge-league
+[submodule "open-match-dataleague"]
+	path = open-match-dataleague
+	url = https://github.com/challenge-league/open-match-dataleague
